@@ -3,11 +3,11 @@
 # First Age Angband (FAangband)
 
  - Current FAangband:
-    [website](http://nickmcconnell.github.io/FAangband/)
-    [code repo](https://github.com/NickMcConnell/FirstAgeAngband)
+    - [website](http://nickmcconnell.github.io/FAangband/)
+    - [code repo](https://github.com/NickMcConnell/FirstAgeAngband)
  - Old FAangband (up to version 1.4.4):
-    [website](http://angband.oook.cz/faangband/)
-    [code repo](https://github.com/NickMcConnell/FAangband)
+    - [website](http://angband.oook.cz/faangband/)
+    - [code repo](https://github.com/NickMcConnell/FAangband)
 
 # [Angband Variant Repository](http://nickmcconnell.github.io/AngbandPlus/)
 
