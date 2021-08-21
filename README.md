@@ -4,16 +4,16 @@
 
  - Current FAangband:
     - [website](http://nickmcconnell.github.io/FAangband/)
-    - [code repo](https://github.com/NickMcConnell/FirstAgeAngband)
+    - [code repo](https://github.com/NickMcConnell/FAangband)
  - Old FAangband (up to version 1.4.4):
     - [website](http://angband.oook.cz/faangband/)
-    - [code repo](https://github.com/NickMcConnell/FAangband)
+    - [code repo](https://github.com/NickMcConnell/FAangband/tree/oldmain)
 
 # [Angband Variant Repository](http://nickmcconnell.github.io/AngbandPlus/)
 
 # Vanilla Angband (*ie* actual Angband)
 
- - [official website](http://nickmcconnell.github.io/angband/)
+ - [official website](http://angband.github.io/angband/)
  - [official code repo](https://github.com/angband/angband)
  - [my code repo](https://github.com/NickMcConnell/angband)
 
