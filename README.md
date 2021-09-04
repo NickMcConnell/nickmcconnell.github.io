@@ -20,5 +20,5 @@
 # Beleriand (Vapourware open world Middle-Earth death simulator)
 
  - [website](http://nickmcconnell.github.io/Beleriand/)
- - current code repo - watch this space
+ - [current code repo](https://github.com/NickMcConnell/Beleriand) - not really a game yet
  - [old code repo](https://github.com/NickMcConnell/Beleriand/tree/oldmain)
