@@ -21,4 +21,4 @@
 
  - [website](http://nickmcconnell.github.io/Beleriand/)
  - current code repo - watch this space
- - [old code repo](https://github.com/NickMcConnell/Beleriand)
+ - [old code repo](https://github.com/NickMcConnell/Beleriand/tree/oldmain)
