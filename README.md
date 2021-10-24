@@ -5,7 +5,7 @@
  - Current FAangband:
     - [website](http://nickmcconnell.github.io/FAangband/)
     - [code repo](https://github.com/NickMcConnell/FAangband)
- - Old FAangband (up to version 1.4.4):
+ - Old FAangband (up to version 1.4.5):
     - [website](http://angband.oook.cz/faangband/)
     - [code repo](https://github.com/NickMcConnell/FAangband/tree/oldmain)
 
