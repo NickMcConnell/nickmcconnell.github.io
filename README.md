@@ -21,7 +21,7 @@
 
  - [website](http://nickmcconnell.github.io/Beleriand/)
  - [current code repo](https://github.com/NickMcConnell/Beleriand) - not really a game yet
- - [old code repo](https://github.com/NickMcConnell/Beleriand/tree/oldmain) - arguably even less of a game
+ - [old code repo](https://github.com/NickMcConnell/Beleriand/tree/12main) - arguably even less of a game
 
 # NarSil (New angband rewrite of Sil)
 
